@@ -13,7 +13,7 @@ Namen naloge je izdelati spletno aplikacijo, ki omogoča prijavo dijakov na deja
 
 - **Ogrodje CodeIgniter:** Osnova aplikacije, ki sledi model-view-controller (MVC) arhitekturi.
 - **PHP:** Spletni programski jezik za strežniško logiko.
-- **HTML5:** Standardiziran označevalni jezik za strukturiranje vsebine.
+- **HTML:** Standardiziran označevalni jezik za strukturiranje vsebine.
 - **CSS:** Oblikovanje in stilizacija spletnih strani.
 - **JavaScript:** Skriptni jezik za interaktivnost uporabniškega vmesnika.
 - **MySQL in phpMyAdmin:** Upravljanje z relacijskimi podatkovnimi bazami.
